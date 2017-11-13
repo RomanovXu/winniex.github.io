@@ -1,0 +1,68 @@
+body{
+	background-color: #EFEBD9
+}
+img{
+	
+	max-width: 100%;
+
+	border-radius: 50%;
+	background-color: yellow;
+}
+.l0l{
+	color: #7a7b20;
+}
+
+.custom-facebook{
+	margin-top: 15px
+	font-size: 20px;
+	margin-right: 40px;
+	margin-left: 20px;
+}
+
+.heading-center{
+ text-align: center;
+
+}
+
+.mid-con{
+	text-align: center;
+}
+.custom-chat {
+	margin-top: 15px;
+	font-size:20px;
+	margin-right: 40px;
+	margin-left: 25px
+}
+.custom-envelope{
+	margin-top: 15px;
+	font-size:20px;
+	margin-right: 40px;
+	margin-left: 20px
+}
+.process-green{
+	max-width:90%;
+}
+.process-blue{
+	max-width:90%;
+}
+.process-yellow{
+	max-width:90%;
+}
+.process-red{
+	max-width:90%;
+}
+
+.card {
+	padding: 20px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h6{
+	color:#B1B330;
+}
+
+.card-title{
+	color:#B1B336;
+
+}

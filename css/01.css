@@ -1,0 +1,23 @@
+body{
+	background-color: #feb512;
+}
+
+h1,h2{
+	color: red;
+}
+
+
+.division-one {
+	width: 500px;
+	background-color: red;
+	border: 5px solid black;
+	padding:10px;
+}
+.division-two {
+	width: 500px;
+	background-color: green;
+	margin-top: 10px;
+	float:right;
+
+}
+

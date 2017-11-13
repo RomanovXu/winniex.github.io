@@ -1,0 +1,16 @@
+body{
+	background-color: #feb512;
+}
+li{
+	color: blue;
+}
+
+h1,h2{
+	color: red;
+}
+.edward{
+	color: white;
+}
+#special{
+	font-weight: bold;
+}

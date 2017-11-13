@@ -1,0 +1,56 @@
+body{
+	background-color: #248888;
+}
+li{
+	color: black;
+}
+h1{
+	color:White;
+	text-align: center;
+}
+
+h2{
+	color:white;
+	text-align: center;
+}
+h3{
+	color: white;
+	width: 100px;
+	height: 100px;
+	float: middle;
+ }
+ img{
+	width: 200px;
+	height:280px;
+	float:left;
+
+}
+
+.division-one {
+	width: 10000px;
+	float:left;
+	
+}
+.division-two {
+	width: 1000px;
+	
+	margin-top: 10px;
+	float:right;
+}
+.division-three{
+	width: 500px;
+	float:right;
+
+}
+
+.division-four{
+	width: 500px;
+	height: 500px;
+	float:right;
+}
+
+img{
+	width: 200px;
+	height:280px;
+	float:left;
+
